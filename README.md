@@ -1,2 +1,2 @@
-# cursogit
-curso git
+# proyectoTodo
+Proyecto Git
